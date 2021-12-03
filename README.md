@@ -1,4 +1,4 @@
-# Meu Primeiro Web Scrapping
+# Meu Primeiro Web Scraping
 
 Um dos meus grandes sonhos é conhecer a Europa e, por minha família ser de origem italiana, nada mais justo que a Itália ser um dos primeiros países que eu queira visitar.
 
